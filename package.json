@@ -1,0 +1,27 @@
+{
+  "name": "metalsmith-clean",
+  "version": "0.0.0",
+  "description": "metalsmith plugin for cleaning the build directory",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/esundahl/metalsmith-clean"
+  },
+  "keywords": [
+    "metalsmith",
+    "plugin",
+    "clean"
+  ],
+  "author": "Erik Sundahl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esundahl/metalsmith-clean/issues"
+  },
+  "homepage": "https://github.com/esundahl/metalsmith-clean",
+  "dependencies": {
+    "fs-extra": "^0.8.1"
+  }
+}
